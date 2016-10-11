@@ -1,0 +1,22 @@
+{
+  "name": "no-server-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-pou1/no-server-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-pou1/no-server-project/issues"
+  },
+  "homepage": "https://github.com/kyle-pou1/no-server-project#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
